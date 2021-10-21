@@ -2,6 +2,8 @@
 
 Authors: Thomas Linden, Daniel Domingo-Fernández, Lauren Nicole DeLong, Maria Kuzikov, Andrea Zaliani, Holger Fröhlich
 
+## Paper
+doi:
 
 ## Abstract
 Despite available vaccinations, Covid-19 case numbers around the world are still growing, and effective medications against severe cases are lacking. In this work, we developed a machine learning model which predicts mortality for hospitalized Covid-19 patients using representative data from the LEOSS observational study in Germany, resulting into an AUC of almost 80%. We showed that molecular mechanisms related to dementia, one of the relevant predictors in our model, intersect with those associated to Covid-19. Most notably, among these molecules was tyrosine kinase 2 (TYK2), a protein that has been patented as drug target in Alzheimer’s Disease but also genetically associated with severe Covid-19 outcomes. We experimentally verified that anti-cancer drugs Sorafenib and Regorafenib showed a clear anti-cytopathic effect in Caco2 and VERO-E6 cells and can thus be regarded as potential treatments against Covid-19. Altogether, our work demonstrates that interpretation of machine learning based risk models can point towards drug targets and new treatment options, which are strongly needed for Covid-19.
