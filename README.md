@@ -1,7 +1,5 @@
 # ``Code for Paper:``  **Machine Learning Based Prediction of Covid-19 Mortality Using German Hospital Data Suggests Repositioning of Anticancer Drug for Treating Severe Cases**
 
-Authors: Thomas Linden, Daniel Domingo-Fernández, Lauren Nicole DeLong, Maria Kuzikov, Andrea Zaliani, Holger Fröhlich
-
 ## Paper
 doi:
 
