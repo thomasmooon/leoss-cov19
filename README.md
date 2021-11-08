@@ -11,3 +11,7 @@ Despite available vaccinations, Covid-19 case numbers around the world are still
 folder overview: ![image](https://user-images.githubusercontent.com/29228225/138355383-788734df-5577-4ed6-bdcd-381bd6674eb1.png)
 
 The [leoss-cov19](README_tree.txt) file contains a detailed tree-like overview of folders and files.
+
+# LEOSS COVID-19 mortality prediction model
+A deployable model with example data is hosted here:
+https://gitlab.scai.fraunhofer.de/thomas.linden/leoss_deployment
